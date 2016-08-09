@@ -1,0 +1,7 @@
+.foo-widget {
+  background-color: #3d3d3d;
+}
+
+.foo-widget iframe {
+  width: 100%;
+}

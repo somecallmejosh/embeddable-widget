@@ -19,5 +19,10 @@
   "bugs": {
     "url": "https://github.com/somecallmejosh/embeddable-widget/issues"
   },
-  "homepage": "https://github.com/somecallmejosh/embeddable-widget#readme"
+  "homepage": "https://github.com/somecallmejosh/embeddable-widget#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "ejs": "^2.5.1",
+    "express": "^4.14.0"
+  }
 }
